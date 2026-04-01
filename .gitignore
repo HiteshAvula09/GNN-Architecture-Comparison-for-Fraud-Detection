@@ -18,7 +18,7 @@ env/
 data/
 
 # Model outputs
-outputs/
+outputs/*.pt
 
 # Jupyter
 .ipynb_checkpoints/
